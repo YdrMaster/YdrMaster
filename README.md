@@ -9,7 +9,7 @@
   
 - 其他项目
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YdrMaster&repo=rustsbi-qemu)](https://github.com/YdrMaster/rustsbi-qemu)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YdrMaster&repo=rustsbi-qemu&theme=dark)](https://github.com/YdrMaster/rustsbi-qemu)
 
   这个项目实现适用于 qemu virt 虚拟设备的特权运行环境（SEE）。SEE 向特权软件（Supervisor）提供由 [RISCV 标准](https://github.com/riscv-non-isa/riscv-sbi-doc/releases/tag/v1.0.0)定义的特权态二进制接口（SBI：Supervisor Binary Interface）。
 
